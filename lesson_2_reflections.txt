@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  Initializing creates the git dot files. You have to initialize before you can start committing.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  The staging area shows which files will be changed in the next commit. It's useful to help decide which files to
+  include in each commit.
