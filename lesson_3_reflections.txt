@@ -1,3 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-  Remote repositories are useful when using multiple computers, or when multiple people are working on the repo.
+  Remote repositories are useful when using multiple computers, or when multiple people are working
+  on the repo.
+
+Why might you want to always pull changes manually rather than having Git automatically stay 
+up-to-date with your remote repository?
+
+  So you don't get unexpected changes when you don't want them.
